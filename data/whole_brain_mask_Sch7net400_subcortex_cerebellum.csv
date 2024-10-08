@@ -1,0 +1,443 @@
+,region_name,network_name
+0,visual,Vis
+1,visual,Vis
+2,visual,Vis
+3,visual,Vis
+4,visual,Vis
+5,visual,Vis
+6,visual,Vis
+7,visual,Vis
+8,visual,Vis
+9,visual,Vis
+10,visual,Vis
+11,visual,Vis
+12,visual,Vis
+13,visual,Vis
+14,visual,Vis
+15,visual,Vis
+16,visual,Vis
+17,visual,Vis
+18,visual,Vis
+19,visual,Vis
+20,visual,Vis
+21,visual,Vis
+22,visual,Vis
+23,visual,Vis
+24,visual,Vis
+25,visual,Vis
+26,visual,Vis
+27,visual,Vis
+28,visual,Vis
+29,visual,Vis
+30,visual,Vis
+31,somatomotor,SomMot
+32,somatomotor,SomMot
+33,somatomotor,SomMot
+34,somatomotor,SomMot
+35,somatomotor,SomMot
+36,somatomotor,SomMot
+37,somatomotor,SomMot
+38,somatomotor,SomMot
+39,somatomotor,SomMot
+40,somatomotor,SomMot
+41,somatomotor,SomMot
+42,somatomotor,SomMot
+43,somatomotor,SomMot
+44,somatomotor,SomMot
+45,somatomotor,SomMot
+46,somatomotor,SomMot
+47,somatomotor,SomMot
+48,somatomotor,SomMot
+49,somatomotor,SomMot
+50,somatomotor,SomMot
+51,somatomotor,SomMot
+52,somatomotor,SomMot
+53,somatomotor,SomMot
+54,somatomotor,SomMot
+55,somatomotor,SomMot
+56,somatomotor,SomMot
+57,somatomotor,SomMot
+58,somatomotor,SomMot
+59,somatomotor,SomMot
+60,somatomotor,SomMot
+61,somatomotor,SomMot
+62,somatomotor,SomMot
+63,somatomotor,SomMot
+64,somatomotor,SomMot
+65,somatomotor,SomMot
+66,somatomotor,SomMot
+67,somatomotor,SomMot
+68,posterior,DorsAttn
+69,posterior,DorsAttn
+70,posterior,DorsAttn
+71,posterior,DorsAttn
+72,posterior,DorsAttn
+73,posterior,DorsAttn
+74,posterior,DorsAttn
+75,posterior,DorsAttn
+76,posterior,DorsAttn
+77,posterior,DorsAttn
+78,posterior,DorsAttn
+79,posterior,DorsAttn
+80,posterior,DorsAttn
+81,posterior,DorsAttn
+82,posterior,DorsAttn
+83,posterior,DorsAttn
+84,posterior,DorsAttn
+85,frontal eye fields,DorsAttn
+86,frontal eye fields,DorsAttn
+87,frontal eye fields,DorsAttn
+88,frontal eye fields,DorsAttn
+89,precentral ventral,DorsAttn
+90,precentral ventral,DorsAttn
+91,parietal operculum,SalVentAttn
+92,parietal operculum,SalVentAttn
+93,parietal operculum,SalVentAttn
+94,parietal operculum,SalVentAttn
+95,temporal occipital,SalVentAttn
+96,frontal operculum insula,SalVentAttn
+97,frontal operculum insula,SalVentAttn
+98,frontal operculum insula,SalVentAttn
+99,frontal operculum insula,SalVentAttn
+100,frontal operculum insula,SalVentAttn
+101,frontal operculum insula,SalVentAttn
+102,frontal operculum insula,SalVentAttn
+103,frontal operculum insula,SalVentAttn
+104,frontal operculum insula,SalVentAttn
+105,lateral prefrontal cortex,SalVentAttn
+106,medial,SalVentAttn
+107,medial,SalVentAttn
+108,medial,SalVentAttn
+109,medial,SalVentAttn
+110,medial,SalVentAttn
+111,medial,SalVentAttn
+112,medial,SalVentAttn
+113,orbital frontal cortex,Limbic
+114,orbital frontal cortex,Limbic
+115,orbital frontal cortex,Limbic
+116,orbital frontal cortex,Limbic
+117,orbital frontal cortex,Limbic
+118,temporal pole,Limbic
+119,temporal pole,Limbic
+120,temporal pole,Limbic
+121,temporal pole,Limbic
+122,temporal pole,Limbic
+123,temporal pole,Limbic
+124,temporal pole,Limbic
+125,temporal pole,Limbic
+126,parietal ,Cont
+127,parietal ,Cont
+128,parietal ,Cont
+129,parietal ,Cont
+130,parietal ,Cont
+131,parietal ,Cont
+132,temporal,Cont
+133,orbital frontal cortex,Cont
+134,lateral prefrontal cortex,Cont
+135,lateral prefrontal cortex,Cont
+136,lateral prefrontal cortex,Cont
+137,lateral prefrontal cortex,Cont
+138,lateral prefrontal cortex,Cont
+139,lateral prefrontal cortex,Cont
+140,lateral prefrontal cortex,Cont
+141,lateral prefrontal cortex,Cont
+142,ventral prefrontal cortex,Cont
+143,precuneus,Cont
+144,precuneus,Cont
+145,cingulate,Cont
+146,cingulate,Cont
+147,medial posterior prefrontal cortex,Cont
+148,temporal,Default
+149,temporal,Default
+150,temporal,Default
+151,temporal,Default
+152,temporal,Default
+153,temporal,Default
+154,temporal,Default
+155,temporal,Default
+156,temporal,Default
+157,temporal,Default
+158,parietal,Default
+159,parietal,Default
+160,parietal,Default
+161,parietal,Default
+162,parietal,Default
+163,parietal,Default
+164,parietal,Default
+165,prefrontal cortex,Default
+166,prefrontal cortex,Default
+167,prefrontal cortex,Default
+168,prefrontal cortex,Default
+169,prefrontal cortex,Default
+170,prefrontal cortex,Default
+171,prefrontal cortex,Default
+172,prefrontal cortex,Default
+173,prefrontal cortex,Default
+174,prefrontal cortex,Default
+175,prefrontal cortex,Default
+176,prefrontal cortex,Default
+177,prefrontal cortex,Default
+178,prefrontal cortex,Default
+179,prefrontal cortex,Default
+180,prefrontal cortex,Default
+181,prefrontal cortex,Default
+182,prefrontal cortex,Default
+183,prefrontal cortex,Default
+184,prefrontal cortex,Default
+185,prefrontal cortex,Default
+186,prefrontal cortex,Default
+187,prefrontal cortex,Default
+188,prefrontal cortex,Default
+189,precuneus posterior cingulate cortex,Default
+190,precuneus posterior cingulate cortex,Default
+191,precuneus posterior cingulate cortex,Default
+192,precuneus posterior cingulate cortex,Default
+193,precuneus posterior cingulate cortex,Default
+194,precuneus posterior cingulate cortex,Default
+195,precuneus posterior cingulate cortex,Default
+196,precuneus posterior cingulate cortex,Default
+197,precuneus posterior cingulate cortex,Default
+198,precuneus posterior cingulate cortex,Default
+199,precuneus posterior cingulate cortex,Default
+200,visual,Vis
+201,visual,Vis
+202,visual,Vis
+203,visual,Vis
+204,visual,Vis
+205,visual,Vis
+206,visual,Vis
+207,visual,Vis
+208,visual,Vis
+209,visual,Vis
+210,visual,Vis
+211,visual,Vis
+212,visual,Vis
+213,visual,Vis
+214,visual,Vis
+215,visual,Vis
+216,visual,Vis
+217,visual,Vis
+218,visual,Vis
+219,visual,Vis
+220,visual,Vis
+221,visual,Vis
+222,visual,Vis
+223,visual,Vis
+224,visual,Vis
+225,visual,Vis
+226,visual,Vis
+227,visual,Vis
+228,visual,Vis
+229,visual,Vis
+230,somatomotor,SomMot
+231,somatomotor,SomMot
+232,somatomotor,SomMot
+233,somatomotor,SomMot
+234,somatomotor,SomMot
+235,somatomotor,SomMot
+236,somatomotor,SomMot
+237,somatomotor,SomMot
+238,somatomotor,SomMot
+239,somatomotor,SomMot
+240,somatomotor,SomMot
+241,somatomotor,SomMot
+242,somatomotor,SomMot
+243,somatomotor,SomMot
+244,somatomotor,SomMot
+245,somatomotor,SomMot
+246,somatomotor,SomMot
+247,somatomotor,SomMot
+248,somatomotor,SomMot
+249,somatomotor,SomMot
+250,somatomotor,SomMot
+251,somatomotor,SomMot
+252,somatomotor,SomMot
+253,somatomotor,SomMot
+254,somatomotor,SomMot
+255,somatomotor,SomMot
+256,somatomotor,SomMot
+257,somatomotor,SomMot
+258,somatomotor,SomMot
+259,somatomotor,SomMot
+260,somatomotor,SomMot
+261,somatomotor,SomMot
+262,somatomotor,SomMot
+263,somatomotor,SomMot
+264,somatomotor,SomMot
+265,somatomotor,SomMot
+266,somatomotor,SomMot
+267,somatomotor,SomMot
+268,somatomotor,SomMot
+269,somatomotor,SomMot
+270,posterior,DorsAttn
+271,posterior,DorsAttn
+272,posterior,DorsAttn
+273,posterior,DorsAttn
+274,posterior,DorsAttn
+275,posterior,DorsAttn
+276,posterior,DorsAttn
+277,posterior,DorsAttn
+278,posterior,DorsAttn
+279,posterior,DorsAttn
+280,posterior,DorsAttn
+281,posterior,DorsAttn
+282,posterior,DorsAttn
+283,posterior,DorsAttn
+284,posterior,DorsAttn
+285,posterior,DorsAttn
+286,posterior,DorsAttn
+287,posterior,DorsAttn
+288,posterior,DorsAttn
+289,frontal eye fields,DorsAttn
+290,frontal eye fields,DorsAttn
+291,frontal eye fields,DorsAttn
+292,precentral ventral,DorsAttn
+293,temporal occipital parietal,SalVentAttn
+294,temporal occipital parietal,SalVentAttn
+295,temporal occipital parietal,SalVentAttn
+296,temporal occipital parietal,SalVentAttn
+297,temporal occipital parietal,SalVentAttn
+298,temporal occipital parietal,SalVentAttn
+299,temporal occipital parietal,SalVentAttn
+300,precentral,SalVentAttn
+301,frontal operculum insula,SalVentAttn
+302,frontal operculum insula,SalVentAttn
+303,frontal operculum insula,SalVentAttn
+304,frontal operculum insula,SalVentAttn
+305,frontal operculum insula,SalVentAttn
+306,frontal operculum insula,SalVentAttn
+307,frontal operculum insula,SalVentAttn
+308,frontal operculum insula,SalVentAttn
+309,lateral prefrontal cortex,SalVentAttn
+310,medial,SalVentAttn
+311,medial,SalVentAttn
+312,medial,SalVentAttn
+313,medial,SalVentAttn
+314,medial,SalVentAttn
+315,medial,SalVentAttn
+316,medial,SalVentAttn
+317,medial,SalVentAttn
+318,orbital frontal cortex,Limbic
+319,orbital frontal cortex,Limbic
+320,orbital frontal cortex,Limbic
+321,orbital frontal cortex,Limbic
+322,orbital frontal cortex,Limbic
+323,orbital frontal cortex,Limbic
+324,temporal pole,Limbic
+325,temporal pole,Limbic
+326,temporal pole,Limbic
+327,temporal pole,Limbic
+328,temporal pole,Limbic
+329,temporal pole,Limbic
+330,temporal pole,Limbic
+331,parietal,Cont
+332,parietal,Cont
+333,parietal,Cont
+334,parietal,Cont
+335,parietal,Cont
+336,parietal,Cont
+337,temporal,Cont
+338,temporal,Cont
+339,ventral prefrontal cortex,Cont
+340,lateral prefrontal cortex,Cont
+341,lateral prefrontal cortex,Cont
+342,lateral prefrontal cortex,Cont
+343,lateral prefrontal cortex,Cont
+344,lateral prefrontal cortex,Cont
+345,lateral prefrontal cortex,Cont
+346,lateral prefrontal cortex,Cont
+347,lateral prefrontal cortex,Cont
+348,lateral prefrontal cortex,Cont
+349,lateral prefrontal cortex,Cont
+350,lateral prefrontal cortex,Cont
+351,lateral prefrontal cortex,Cont
+352,lateral prefrontal cortex,Cont
+353,lateral prefrontal cortex,Cont
+354,lateral prefrontal cortex,Cont
+355,precuneus,Cont
+356,precuneus,Cont
+357,cingulate,Cont
+358,cingulate,Cont
+359,medial posterior prefrontal cortex,Cont
+360,medial posterior prefrontal cortex,Cont
+361,parietal,Default
+362,parietal,Default
+363,parietal,Default
+364,parietal,Default
+365,parietal,Default
+366,temporal,Default
+367,temporal,Default
+368,temporal,Default
+369,temporal,Default
+370,temporal,Default
+371,temporal,Default
+372,temporal,Default
+373,temporal,Default
+374,ventral prefrontal cortex,Default
+375,ventral prefrontal cortex,Default
+376,ventral prefrontal cortex,Default
+377,ventral prefrontal cortex,Default
+378,dorsal prefrontal cortex medial prefrontal cortex,Default
+379,dorsal prefrontal cortex medial prefrontal cortex,Default
+380,dorsal prefrontal cortex medial prefrontal cortex,Default
+381,dorsal prefrontal cortex medial prefrontal cortex,Default
+382,dorsal prefrontal cortex medial prefrontal cortex,Default
+383,dorsal prefrontal cortex medial prefrontal cortex,Default
+384,dorsal prefrontal cortex medial prefrontal cortex,Default
+385,dorsal prefrontal cortex medial prefrontal cortex,Default
+386,dorsal prefrontal cortex medial prefrontal cortex,Default
+387,dorsal prefrontal cortex medial prefrontal cortex,Default
+388,dorsal prefrontal cortex medial prefrontal cortex,Default
+389,dorsal prefrontal cortex medial prefrontal cortex,Default
+390,dorsal prefrontal cortex medial prefrontal cortex,Default
+391,precuneus posterior cingulate cortex,Default
+392,precuneus posterior cingulate cortex,Default
+393,precuneus posterior cingulate cortex,Default
+394,precuneus posterior cingulate cortex,Default
+395,precuneus posterior cingulate cortex,Default
+396,precuneus posterior cingulate cortex,Default
+397,precuneus posterior cingulate cortex,Default
+398,precuneus posterior cingulate cortex,Default
+399,precuneus posterior cingulate cortex,Default
+400,aHIP-rh,Subcortex
+401,pHIP-rh,Subcortex
+402,lAMY-rh,Subcortex
+403,mAMY-rh,Subcortex
+404,THA-DP-rh,Subcortex
+405,THA-VP-rh,Subcortex
+406,THA-VA-rh,Subcortex
+407,THA-DA-rh,Subcortex
+408,NAc-shell-rh,Subcortex
+409,NAc-core-rh,Subcortex
+410,pGP-rh,Subcortex
+411,aGP-rh,Subcortex
+412,aPUT-rh,Subcortex
+413,pPUT-rh,Subcortex
+414,aCAU-rh,Subcortex
+415,pCAU-rh,Subcortex
+416,aHIP-lh,Subcortex
+417,pHIP-lh,Subcortex
+418,lAMY-lh,Subcortex
+419,mAMY-lh,Subcortex
+420,THA-DP-lh,Subcortex
+421,THA-VP-lh,Subcortex
+422,THA-VA-lh,Subcortex
+423,THA-DA-lh,Subcortex
+424,NAc-shell-lh,Subcortex
+425,NAc-core-lh,Subcortex
+426,pGP-lh,Subcortex
+427,aGP-lh,Subcortex
+428,aPUT-lh,Subcortex
+429,pPUT-lh,Subcortex
+430,aCAU-lh,Subcortex
+431,pCAU-lh,Subcortex
+432,Cerebellum01,Cerebellum
+433,Cerebellum02,Cerebellum
+434,Cerebellum03,Cerebellum
+435,Cerebellum04,Cerebellum
+436,Cerebellum05,Cerebellum
+437,Cerebellum06,Cerebellum
+438,Cerebellum07,Cerebellum
+439,Cerebellum08,Cerebellum
+440,Cerebellum09,Cerebellum
+441,Cerebellum10,Cerebellum
