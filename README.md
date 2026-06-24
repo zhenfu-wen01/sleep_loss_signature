@@ -15,4 +15,4 @@ To trained model is at /data/trained_model.pkl. It is ready to apply to external
 The estimated connectivity vectors of different datasets can be found at https://osf.io/ayj72/. Please download the data there to the /data folder to run the codes.
 A results folder is suppose to save figures generated in the above codes.
 
-In case of any questions, please contact Zhenfu Wen (zhenfu.wen@uth.tmc.edu).
+In case of any questions, please contact Zhenfu Wen (zhenfu.wen01@gmail.com).
